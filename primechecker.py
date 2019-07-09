@@ -1,4 +1,4 @@
-import math
+import math 
 def primeCheck(a):
     if a == 1:
         print("Negative")
